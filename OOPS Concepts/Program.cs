@@ -1,6 +1,8 @@
-﻿                                                         // OOPS Concepts//
+                         **********************************// OOPS Concepts//**********************************
 
-                                                      // Single Inheritance//
+                          **********************************// Single Inheritance//**********************************
+                           
+                           
 //public class Employee
 //{
 //    public int salary = 40000;
@@ -25,7 +27,7 @@
 
 
 
-                                                          // Multiple Inheritance//
+                                 **********************************// Multiple Inheritance//**********************************
 
 
 //public class Banking
@@ -56,7 +58,7 @@
 
 
 
-                                                         //Hierarchical Inheritance//
+                        **********************************//Hierarchical Inheritance//**********************************
 
 
 
@@ -115,7 +117,7 @@
 
 
 
-                                                //Encapsulation//
+                     ********************************** //Encapsulation//**********************************
 
 
 // class Banking
@@ -150,7 +152,7 @@
 
 
 
-                                                      //Abstraction//
+                         **********************************  //Abstraction//**********************************
 
 
 //abstract class Human
@@ -182,7 +184,7 @@
 
 
 
-                                                      //Interface//
+                        ********************************** //Interface//**********************************
 
 
 //interface Engineering
@@ -216,8 +218,8 @@
 
 
 
-                                                    //Pholymorphism//
-                                                 //Runtime Pholymorphism//
+                        ****************************//Pholymorphism//**********************************
+                 ********************************** //Runtime Pholymorphism//**********************************
 
 //public class Shopping
 //{
@@ -246,7 +248,7 @@
 
 
 
-                                       //Compilke time Pholymorphism//
+                                ***************************** //Compile time Pholymorphism//**********************************
 
 
 //public class Kalpita
